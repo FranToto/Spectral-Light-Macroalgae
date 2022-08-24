@@ -1,7 +1,7 @@
 # Spectral-Light-Macroalgae
 
 ## Interactive app
-Shiny app available here: url link to shinyapp.io
+Shiny app available here: https://frantoto.shinyapps.io/Thoral2022_SpectralLightSeabed_Macroalgae/
 And related code in file app.R
 
 ## Data
