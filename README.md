@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/528231975.svg)](https://zenodo.org/badge/latestdoi/528231975)
+
 # Spectral-Light-Macroalgae
 
 ## Interactive app
